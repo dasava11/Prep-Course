@@ -46,7 +46,7 @@ function saludo(idioma) {
   // Si "idioma" es "aleman", devuelve "Guten Tag!"
   // Si "idioma" es "mandarin", devuelve "Ni Hao!"
   // Si "idioma" es "ingles", devuelve "Hello!"
-  // Si "idioma" no es ninguno de los anteiores o es `undefined` devuelve "Hola!"
+  // Si "idioma" no es ninguno de los anteriores o es `undefined` devuelve "Hola!"
   // Tu código:
 if(idioma === 'aleman') {
   return "Guten Tag!";
@@ -184,7 +184,7 @@ function tablaDelSeis(){
   //La función devuelve un array con los resultados de la tabla de multiplicar del 6 en orden creciente.
   //Escribe tu código aquí   
   var array = []
-  for(i=0 ; i<=10 ; i++) {
+  for(let i=0 ; i<=10 ; i++) {
     array [i] = 6*i
   }
   return array

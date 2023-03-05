@@ -1,9 +1,15 @@
 
  * Variables
  Son palabras que pueden almacenar valores según la necesidad, estás palabras generalmente deben nombrar o hacer alusión a los valores que contendrá. Se les llama variables porque no tienen un valor fijo, ya que este irá cambiando según una instrucción o función.
+ 
  * Strings
  Son letras, palabras, oraciones y hasta un texto. Lo importante es que esta información siempre este contenida entre comillas.
+ 
  * Funciones (argumentos, `return`)
+ Son un pedacito de codigo que pueden llamarse objetos invocables, estas realizan las acciones que se ordenan asociando los argumentos relacionados.
  
  * Declaraciones `if`
+Es un condicional que sirve para evaluar la verdad de una comparación.
+
  * Valores booleanos (`true`, `false`)
+ Son estados de verdad, solo resultan de estos valores el true y el false
